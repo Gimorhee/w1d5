@@ -1,0 +1,19 @@
+{
+  "name": "luhnalgorithm",
+  "version": "1.0.0",
+  "main": "luhnAlgorithm.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "description": ""
+}
